@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tkr-website/static/css/main.5c46c542.css",
+    "main.js": "/tkr-website/static/js/main.d4b0baba.js",
+    "static/media/water.jpg": "/tkr-website/static/media/water.b6007bec49c21db0c23d.jpg",
+    "static/media/earth.jpg": "/tkr-website/static/media/earth.ae82066d6f42f87dd332.jpg",
+    "static/media/fire.jpg": "/tkr-website/static/media/fire.7bbc8669619929ed598b.jpg",
+    "static/media/about_image.jpg": "/tkr-website/static/media/about_image.89a56d6995004ee04766.jpg",
+    "static/media/home.jpg": "/tkr-website/static/media/home.b6609d8f12817bc3728c.jpg",
+    "static/media/sky.jpg": "/tkr-website/static/media/sky.80f99d698b5157e15ba6.jpg",
+    "static/media/wind.jpg": "/tkr-website/static/media/wind.95413102832c4e0ba909.jpg",
+    "index.html": "/tkr-website/index.html",
+    "main.5c46c542.css.map": "/tkr-website/static/css/main.5c46c542.css.map",
+    "main.d4b0baba.js.map": "/tkr-website/static/js/main.d4b0baba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c46c542.css",
+    "static/js/main.d4b0baba.js"
+  ]
+}
